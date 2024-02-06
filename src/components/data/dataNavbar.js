@@ -6,25 +6,19 @@ const navbarList = [
   },
   {
     id: 2,
-    section: "Experiences",
-    href: "/#experiences",
+    section: "Experience",
+    href: "/#experience",
   },
   {
     id: 3,
-    section: "Projects",
-    href: "/#projects",
+    section: "Project",
+    href: "/#project",
   },
   {
-    id: 2,
-    section: "Case Study",
-    href: "/#case-study",
+    id: 4,
+    section: "Article",
+    href: "/#article",
   },
-  {
-    id: 3,
-    section: "Articles",
-    href: "/#articles",
-  },
-
   {
     id: 5,
     section: "Resume",
@@ -32,8 +26,8 @@ const navbarList = [
   },
   {
     id: 6,
-    section: "Contacts",
-    href: "/#contacts",
+    section: "Contact",
+    href: "/#contact",
   },
 ];
 

@@ -28,18 +28,18 @@ export default function About() {
       </div> */}
       <div className="text-[15px] md:text-md xl:text-desc pt-4 space-y-4">
         <p>
-          I&apos;m an aspiring web developer, UI/UX designer, and product
-          manager who has a variety of knowledge related to digital products.
-          I have actively contributed to various events within the university and
-          department as a frontend web developer and web designer. I also have
-          experience in cross functional coordination and collaboration between
-          teams and divisions in university and department level events and
-          communities. Besides that, I have knowledge spanning product research, design,
-          and development that reflect my understanding of the product
-          lifecycle. My unique blend of technical knowledge, UI/UX design
-          skills, leadership, communication, agility, and adaptability,
-          makes me a valuable asset. Eager to contribute to the company&apos;s
-          success, deliver innovations, and keep up in the field of digital products.
+          I&apos;m an aspiring web developerwith a diverse range of knowledge
+          related to web development and design. I have actively contributed to
+          various events within the university and department as a frontend web
+          developer and web designer. I also have experience in cross functional
+          coordination, teamwork, and collaboration between teams and divisions in
+          university and department-level events and communities. Moreover,
+          I have knowledge spanning product research, design, and development
+          that reflect my understanding of the product lifecycle. My unique
+          blend of technical knowledge, web design skill, leadership, teamwork,
+          communication, agility, and adaptability, makes me a valuable asset.
+          Eager to contribute to the company&apos;s success, deliver
+          innovations, and keep up in the field of web development.
         </p>
       </div>
     </SectionWrapper>

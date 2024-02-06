@@ -18,7 +18,7 @@ export default function Experiences() {
   };
 
   return (
-    <SectionWrapper id="experiences" className="-mt-3 md:mt-0" delay={0.5}>
+    <SectionWrapper id="experience" className="-mt-3 md:mt-0" delay={0.5}>
       <h1 className="font-bold text-[22px] md:text-[25px] lg:text-title pb-3">
         Experiences
       </h1>

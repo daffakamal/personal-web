@@ -10,7 +10,7 @@ export default function Projects() {
   const [list] = useState(projectsList);
 
   return (
-    <SectionWrapper id="projects" className="mb-7" delay={0.3}>
+    <SectionWrapper id="project" className="mb-7" delay={0.3}>
       <h1 className="font-bold text-[22px] md:text-[25px] lg:text-title">
         Projects
       </h1>

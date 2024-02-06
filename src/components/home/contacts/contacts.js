@@ -13,7 +13,7 @@ export default function Contacts() {
   const [list] = useState(contactsList);
 
   return (
-    <SectionWrapper id="contacts" className="pb-9" delay={0.5}>
+    <SectionWrapper id="contact" className="pb-9" delay={0.5}>
       <h1 className="font-bold text-[22px] md:text-title pb-4">Contacts</h1>
       <div className="flex flex-col space-y-5">
         {list.map((contact) => (
