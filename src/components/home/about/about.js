@@ -28,7 +28,7 @@ export default function About() {
       </div> */}
       <div className="text-[15px] md:text-md xl:text-desc pt-4 space-y-4">
         <p>
-          I&apos;m an aspiring web developerwith a diverse range of knowledge
+          I&apos;m an aspiring web developer and administrator with a diverse range of knowledge
           related to web development and design. I have actively contributed to
           various events within the university and department as a frontend web
           developer and web designer. I also have experience in cross functional
