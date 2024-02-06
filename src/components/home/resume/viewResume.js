@@ -19,7 +19,7 @@ export default function ViewResume() {
             <div className="absolute inset-0 w-0 bg-blue-500 transition-all duration-[300ms] ease-out group-hover:w-full rounded-full"></div>
             <Link
               className="relative px-5 py-1.5"
-              href="https://drive.google.com/file/d/1xr9f_nPPw_OnEh10QU2oF3G0SIIoYR5U/view?usp=sharing"
+              href="https://drive.google.com/file/d/1DcisqfipmIMoH1SyrmJ3l4hIePSE5YSS/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
