@@ -18,6 +18,14 @@ const projectsList = [
   },
   {
     id: 3,
+    img: "/images/Edulist.png",
+    title: "Edulist",
+    link: "https://edulist.vercel.app/",
+    description: "A website that curates a collection of AI tools tailored for students",
+    tag: ["Next.js", "Tailwind CSS"],
+  },
+  {
+    id: 4,
     img: "/images/Lalasia.png",
     title: "Lalasia",
     link: "https://github.com/defz7/lalasia",
@@ -26,7 +34,7 @@ const projectsList = [
     tag: ["Next.js", "Tailwind CSS"],
   },
   {
-    id: 4,
+    id: 5,
     img: "/images/Travelline.png",
     title: "Travelline",
     link: "https://github.com/defz7/travelline",
