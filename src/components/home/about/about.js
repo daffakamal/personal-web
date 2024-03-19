@@ -28,18 +28,19 @@ export default function About() {
       </div> */}
       <div className="text-[15px] md:text-md xl:text-desc pt-4 space-y-4">
         <p>
-          I&apos;m an aspiring web developer and administrator with a diverse range of knowledge
-          related to web development and design. I have actively contributed to
-          various events within the university and department as a frontend web
-          developer and web designer. I also have experience in cross functional
-          coordination, teamwork, and collaboration between teams and divisions in
-          university and department-level events and communities. Moreover,
-          I have knowledge spanning product research, design, and development
-          that reflect my understanding of the product lifecycle. My unique
-          blend of technical knowledge, web design skill, leadership, teamwork,
-          communication, agility, and adaptability, makes me a valuable asset.
-          Eager to contribute to the company&apos;s success, deliver
-          innovations, and keep up in the field of web development.
+          I&apos;m a frontend web developer and UI/UX design enthusiast with a
+          diverse range of knowledge related to web development and design. I
+          have actively contributed to various events within the university and
+          department as a frontend web developer and UI designer. I also have
+          experience in cross functional coordination, teamwork, and
+          collaboration between teams and divisions in university and
+          department-level events and communities. Moreover, I have knowledge
+          spanning product research, design, and development that reflect my
+          understanding of the product lifecycle. My unique blend of technical
+          knowledge, UI/UX design skill, leadership, teamwork, communication,
+          agility, and adaptability, makes me a valuable asset. Eager to
+          contribute to the company&apos;s success, deliver innovations, and
+          keep up in the field of web development and UI/UX design.
         </p>
       </div>
     </SectionWrapper>
